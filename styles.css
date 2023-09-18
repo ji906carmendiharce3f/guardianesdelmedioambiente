@@ -1,13 +1,11 @@
 .navbar.navbar-expand-lg li a {
-  color: black;
+  color: white;
 }
 
 
 .jumbotron {
   background-position: center;
-  /*background-image: url("./images/Proyecto.jpg");*/
   text-align: center;
-  /**width: 250px;*/
   height: 200px;
   color: black;
   font-family:'Georgia';
